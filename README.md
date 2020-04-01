@@ -9,7 +9,7 @@
 - git clone https://github.com/Anonymous3-SIT/SpamWa
 - cd SpamWa
 - ls
-- python2 WaSpam.sh
+- python2 WaSpam.py
 
 
 #INFO
