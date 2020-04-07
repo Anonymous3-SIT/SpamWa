@@ -3,11 +3,11 @@
 
 #INSTALLATION
 - pkg update && pkg upgrade
-- pkg install bash
+- pkg install python2
 - pkg install git
-- pip2 install requests
 - git clone https://github.com/Anonymous3-SIT/SpamWa
 - cd SpamWa
+- pip2 install requests
 - ls
 - python2 WaSpam.py
 
